@@ -1,0 +1,28 @@
+{
+  "name": "effective-ts-book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abroraxmedov04/effective-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abroraxmedov04/effective-ts/issues"
+  },
+  "homepage": "https://github.com/abroraxmedov04/effective-ts#readme",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "type": "module"
+}
